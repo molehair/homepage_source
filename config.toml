@@ -51,14 +51,19 @@ pluralizelisttitles = "false"
   name = "resume"
   identifier = "resume"
   weight = 400
-  url = "/resume_public.pdf"
+  url = "/resume.pdf"
 [[menu.main]]
   name = "CV"
   identifier = "CV"
   weight = 500
-  url = "/cv_public.pdf"
+  url = "/cv.pdf"
 [[menu.main]]
   name = "Git"
   identifier = "Git"
   weight = 600
   url = "https://github.com/molehair"
+[[menu.main]]
+  name = ""
+  identifier = "gd"
+  weight = 9000
+  url = "/public/"

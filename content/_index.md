@@ -5,9 +5,9 @@ date: 2018-03-26T00:05:14-04:00
 <img class="img-circle" src="/profile/profile.jpg" style="max-width:200px">
 
 # Jiman Hwang
-#### B.S. in Computer Science and Mechanical Engineering, [Sungkyunkwan univ.](http://www.skku.edu/eng_home/index.jsp)
+#### M.S. candidate in School of Computing, [KAIST](https://cs.kaist.ac.kr/)
 
-#### pingdummy1 at gmail.com
+#### molehair at kaist.ac.kr
 
 ---
 
